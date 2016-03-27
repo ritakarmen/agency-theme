@@ -1,0 +1,24 @@
+header{
+	background-image: url(../../img/header-bg.jpg);
+  	background-repeat: none;
+  	background-size: cover;
+  	background-position: center center;
+  	background-attachment: scroll;
+  	color: $blancogris;
+}
+.cajaheader{
+	padding-top: 600px;
+    padding-bottom: 200px;
+    font-family: $fuente1, $fuente2, $fuente3, $fuente4, $fuente5;
+}
+.welcomeheader	{
+	font-family: $fuente9, $fuente2, $fuente3, $fuente4, $fuente5;
+    font-style: italic;
+    font-size: 40px;
+    padding-top: 1%;
+}
+.saludoheader{
+	font-size: 75px;
+	font-weight: bold;
+	padding-top: 1%;
+}
